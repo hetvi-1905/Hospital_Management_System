@@ -5,25 +5,15 @@ Care & Cure - A complete Hospital Management system
 ## 🖊 Brief Intro 
 A complete Multispeciality Hospital Management System Website for all in need of Care and Cure through one or the other illness.
 
+ ## 🔨 Tech-Stack
+ <ul>
+  <li> Front-end:HTML,CSS ,Javascript </li>
+  <li> Back-end:PHP </li>
+  <li> Database: PhpMyAdmin</li>
+ </ul>
+
 ## 🎥 Demo Video  -LEFT
 https://user-images.githubusercontent.com/84613393/198866938-39c80bf8-d702-4adf-a88d-045281625890.mp4
-
-
-## 📄 Dataset
-The data set used for this notebook is a TMDB 5000 Movies which was generated from The Movie Database API and uses the TMDb API.
-
-## 🔁 Pipeline 
-<ul>
-  <li> Merging the Genre, Cast , Crew , Keywords columns into one column named Tags.</li>
-  <li> Then clearing out all the other columns except Movie_ID , Title as Movie Name and Tags. </li>
-  <li> Using Stemming, Count Vectorization and Feature Extraction on Tags column , thus creating Vectors for each movie. </li>
-  <li> Applying Cosine Similarity on each Movie Vectors. </li>
-  <li> Sorting and giving top 5 nearest cosine similar movies based on the user input choice of movie. </li>  
-</ul>
-
-## 🎯 Deployment at Heroku
-I have deployed the ML-Pipeline on a Web application using Flask.
-https://movie-recommender2002.herokuapp.com/
 
 ## 📷 Screenshots
 Landing Page 
@@ -33,12 +23,4 @@ User Input
 Output
 ![Screenshot (486)](https://user-images.githubusercontent.com/84613393/198864648-4883732f-4091-43e6-8ced-334c3f37caa5.png)
 
- ## 🔨 Tech-Stack
 
-
-
- <ul>
-  <li> Front-end:Streamlit </li>
-  <li> Back-end:Flask </li>
-  <li> Machine Learning Libraries:Numpy, Pandas, NLTK, Cosine Similarity, Vectorization</li>
- </ul>
