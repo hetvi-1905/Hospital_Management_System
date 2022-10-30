@@ -1,14 +1,11 @@
 # 🏥 Hospital Management System
-![Patient_Management_System](https://user-images.githubusercontent.com/84613393/198879411-db9d65f7-400c-45cc-86fa-8004e99d01e1.png)
-Care & Cure - A complete Patient Management system
+![Hospital_Management_System](https://user-images.githubusercontent.com/84613393/198879539-da4474b1-1f9e-4c7f-8d4f-f891c3cc0e06.png)
+Care & Cure - A complete Hospital Management system
 
 ## 🖊 Brief Intro 
-A Web Base user-input Movie Recommendation Engine using Cosine Similarity, built to give recommendation based on the user's previous choice of a movie.
+A complete Multispeciality Hospital Management System Website for all in need of Care and Cure through one or the other illness.
 
-## 📌 Importance 
-Such recommender are used to filter and predict only those movies that a corresponding user is most likely to want to watch.
-
-## 🎥 Demo Video 
+## 🎥 Demo Video  -LEFT
 https://user-images.githubusercontent.com/84613393/198866938-39c80bf8-d702-4adf-a88d-045281625890.mp4
 
 
