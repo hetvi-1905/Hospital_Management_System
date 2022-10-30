@@ -190,7 +190,7 @@ else
         <i class="fa fa-instagram"></i>
         <i class="fa fa-linkedin"></i>
     </div>
-    <p> Made with <i class="fa fa-heart-o"></i> by Hetvi & Kausha </p>
+    <p> Made with <i class="fa fa-heart-o"></i> by Hetvi Bhora </p>
 </section>
         <!-- ------------Javascript for togglt menu---------- -->
         <script>
