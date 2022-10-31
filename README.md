@@ -13,9 +13,5 @@ A complete Multispeciality Hospital Management System Website for all in need of
  </ul>
 
 ## 🎥 Demo Video  
-video is big sized and so cant be uploaded
-
-
-## 📷 Screenshots
-left
+https://user-images.githubusercontent.com/84613393/198943077-40df7a8f-79a6-48bb-b9ab-37247c4e80f1.mp4
 
